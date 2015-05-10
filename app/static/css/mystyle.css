@@ -1,0 +1,17 @@
+.main-panel {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+}
+
+.searchbox {
+    position: absolute;
+    top: 5px;
+    left: 75%;
+    right: 5px;
+    bottom: 10px;
+}
+
+.centered {
+    text-align: center;
+}
